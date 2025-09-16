@@ -107,7 +107,7 @@ By the end of this series, you will:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/classical-ml-tutorials.git
+git clone https://github.com/MGASALUCAS/emai-pracs-2025
 cd classical-ml-tutorials
 
 # Install dependencies
