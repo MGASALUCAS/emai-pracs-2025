@@ -1,4 +1,4 @@
-# Classical Machine Learning: A Practical guide from Basics to Mastery
+# Classical Machine Learning: A Practical guide from basics to deployment.
 
 > **"The best way to learn machine learning is to understand the mathematics behind it, then implement it, and finally apply it to real problems."**
 
