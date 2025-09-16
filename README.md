@@ -1,10 +1,10 @@
-# Classical Machine Learning: A Complete Journey from Basics to Mastery
+# Classical Machine Learning: A Practical guide from Basics to Mastery
 
 > **"The best way to learn machine learning is to understand the mathematics behind it, then implement it, and finally apply it to real problems."**
 
 ## Overview
 
-Welcome to the most comprehensive, beginner-friendly classical machine learning tutorial series. This curriculum provides a rigorous and accessible learning experience that takes you from mathematical foundations to real-world applications.
+Welcome to the most beginner-friendly classical machine learning tutorial guide. This guide provides a rigorous and accessible learning experience that takes you from mathematical foundations to real-world applications.
 
 ## What is Classical Machine Learning?
 
