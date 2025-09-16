@@ -108,7 +108,7 @@ By the end of this series, you will:
 ```bash
 # Clone the repository
 git clone https://github.com/MGASALUCAS/emai-pracs-2025
-cd classical-ml-tutorials
+
 
 # Install dependencies
 pip install -r requirements.txt
