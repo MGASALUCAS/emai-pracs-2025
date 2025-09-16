@@ -1,12 +1,12 @@
-# 📊 Datasets - Classical Machine Learning
+# Datasets - Classical Machine Learning
 
-> **"Data is the new oil, but it's only valuable when refined."** - Inspired by Terence Tao's approach to data analysis
+> **"Data is the new oil, but it's only valuable when refined."**
 
-## 🌟 Overview
+## Overview
 
 This directory contains carefully curated datasets for hands-on learning and practice. Each dataset is designed to illustrate specific machine learning concepts and provide realistic challenges.
 
-## 📚 Dataset Categories
+## Dataset Categories
 
 ### **Phase 1: Mathematical Foundations**
 - [Linear Algebra Datasets](#phase-1-linear-algebra-datasets)
@@ -33,7 +33,7 @@ This directory contains carefully curated datasets for hands-on learning and pra
 - [Real-World Applications](#phase-5-real-world-applications)
 - [Synthetic Datasets](#phase-5-synthetic-datasets)
 
-## 📊 Dataset Information
+## Dataset Information
 
 ### **Dataset Format**
 - **CSV**: Comma-separated values for tabular data
@@ -53,7 +53,7 @@ This directory contains carefully curated datasets for hands-on learning and pra
 - **Public**: Openly available datasets
 - **Ethical**: Collected and used responsibly
 
-## 🎯 Phase 1: Mathematical Foundations
+## Phase 1: Mathematical Foundations
 
 ### **Linear Algebra Datasets**
 - **`matrix_operations.csv`**: Matrices for linear algebra exercises
@@ -151,7 +151,7 @@ This directory contains carefully curated datasets for hands-on learning and pra
 - **`mock_transactions.csv`**: Synthetic transaction data
 - **`artificial_signals.csv`**: Synthetic signal data
 
-## 🚀 Getting Started
+## Getting Started
 
 ### **1. Download Datasets**
 ```bash
@@ -194,7 +194,7 @@ scaler = StandardScaler()
 df[['feature1', 'feature2']] = scaler.fit_transform(df[['feature1', 'feature2']])
 ```
 
-## 📝 Dataset Documentation
+## Dataset Documentation
 
 Each dataset includes:
 - **Description**: What the data represents
@@ -205,7 +205,7 @@ Each dataset includes:
 - **Quality**: Data quality assessment
 - **Usage**: Suggested exercises and applications
 
-## 🔒 Privacy and Ethics
+## Privacy and Ethics
 
 - **No Personal Data**: All datasets are anonymized
 - **Public Sources**: Data from publicly available sources
@@ -213,7 +213,7 @@ Each dataset includes:
 - **Ethical Use**: Data used responsibly and ethically
 - **Attribution**: Proper attribution to data sources
 
-## 📞 Support and Resources
+## Support and Resources
 
 - **Data Dictionary**: Detailed description of each dataset
 - **Tutorials**: Step-by-step data analysis guides
@@ -223,4 +223,4 @@ Each dataset includes:
 
 ---
 
-**Ready to start working with data? Begin with the [Phase 1 Datasets](phase1/)!** 🚀
+**Ready to start working with data? Begin with the [Phase 1 Datasets](phase1/)!**

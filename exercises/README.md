@@ -1,12 +1,12 @@
-# 🎯 Hands-On Exercises - Classical Machine Learning
+# Hands-On Exercises - Classical Machine Learning
 
 > **"The only way to learn mathematics is to do mathematics."** - Paul Halmos
 
-## 🌟 Overview
+## Overview
 
 This section contains comprehensive hands-on exercises designed to reinforce your understanding of classical machine learning concepts. Each exercise is carefully crafted to build upon previous knowledge while introducing new challenges.
 
-## 📚 Exercise Categories
+## Exercise Categories
 
 ### **Phase 1: Mathematical Foundations**
 - [Linear Algebra Exercises](#phase-1-linear-algebra-exercises)
@@ -33,14 +33,14 @@ This section contains comprehensive hands-on exercises designed to reinforce you
 - [Feature Engineering Exercises](#phase-5-feature-engineering-exercises)
 - [Model Deployment Exercises](#phase-5-model-deployment-exercises)
 
-## 🎯 Exercise Difficulty Levels
+## Exercise Difficulty Levels
 
-- **🟢 Beginner**: Basic concepts and simple implementations
-- **🟡 Intermediate**: More complex problems requiring deeper understanding
-- **🔴 Advanced**: Challenging problems that integrate multiple concepts
-- **⭐ Expert**: Research-level problems and open-ended challenges
+- **Beginner**: Basic concepts and simple implementations
+- **Intermediate**: More complex problems requiring deeper understanding
+- **Advanced**: Challenging problems that integrate multiple concepts
+- **Expert**: Research-level problems and open-ended challenges
 
-## 📖 How to Use These Exercises
+## How to Use These Exercises
 
 1. **Start with Phase 1** - Complete mathematical foundation exercises
 2. **Follow the sequence** - Each phase builds upon the previous
@@ -49,7 +49,7 @@ This section contains comprehensive hands-on exercises designed to reinforce you
 5. **Experiment freely** - Try different approaches and parameters
 6. **Document your work** - Keep notes on what you learn
 
-## 🏆 Exercise Completion Tracking
+## Exercise Completion Tracking
 
 - **Phase 1**: 0/12 exercises completed
 - **Phase 2**: 0/15 exercises completed
@@ -59,7 +59,7 @@ This section contains comprehensive hands-on exercises designed to reinforce you
 
 **Total Progress**: 0/57 exercises completed (0%)
 
-## 📝 Exercise Format
+## Exercise Format
 
 Each exercise includes:
 - **Learning Objectives**: What you'll achieve
@@ -70,7 +70,7 @@ Each exercise includes:
 - **Extension Challenges**: Additional problems to try
 - **Solution Discussion**: Key insights and takeaways
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Set up your environment**:
    ```bash
@@ -85,7 +85,7 @@ Each exercise includes:
 6. **Test your solution** with provided examples
 7. **Try the extension challenges** for deeper learning
 
-## 💡 Tips for Success
+## Tips for Success
 
 - **Don't rush** - Take time to understand each concept
 - **Ask questions** - Use the discussion forums
@@ -93,7 +93,7 @@ Each exercise includes:
 - **Document** - Keep notes on your learning journey
 - **Practice regularly** - Consistency is key to mastery
 
-## 🎓 Certification Requirements
+## Certification Requirements
 
 To earn your Classical Machine Learning certificate:
 - Complete **80%** of all exercises (46/57)
@@ -101,7 +101,7 @@ To earn your Classical Machine Learning certificate:
 - Complete **2** capstone projects
 - Participate in **3** peer review sessions
 
-## 📞 Support and Resources
+## Support and Resources
 
 - **Discussion Forum**: Ask questions and share insights
 - **Office Hours**: Weekly Q&A sessions with instructors
@@ -110,4 +110,4 @@ To earn your Classical Machine Learning certificate:
 
 ---
 
-**Ready to start your hands-on learning journey? Begin with [Phase 1: Linear Algebra Exercises](phase1_linear_algebra_exercises.ipynb)!** 🚀
+**Ready to start your hands-on learning journey? Begin with [Phase 1: Linear Algebra Exercises](phase1_linear_algebra_exercises.ipynb)!**

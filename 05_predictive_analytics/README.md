@@ -1,8 +1,8 @@
 # Phase 5: Predictive Analytics - From Data to Business Value
 
-> **"Predictive analytics is the art of turning data into actionable insights that drive business decisions."** - Inspired by Terence Tao's approach to practical mathematics
+> **"Predictive analytics is the art of turning data into actionable insights that drive business decisions."**
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this phase, you will:
 - Understand the complete predictive analytics pipeline
@@ -12,7 +12,7 @@ By the end of this phase, you will:
 - Apply predictive analytics to real-world business problems
 - Build end-to-end ML systems that create business value
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. [Introduction to Predictive Analytics](#1-introduction-to-predictive-analytics)
 2. [Data Preprocessing Pipeline](#2-data-preprocessing-pipeline)
@@ -408,7 +408,7 @@ Making models understandable and trustworthy.
 - **Improvement**: Guide model development
 - **Communication**: Explain to stakeholders
 
-## 🎯 Key Takeaways
+## Key Takeaways
 
 1. **Predictive analytics** transforms data into business value
 2. **Data quality** is crucial for model success
@@ -418,7 +418,7 @@ Making models understandable and trustworthy.
 6. **Business integration** is essential for success
 7. **Ethics** must be considered throughout the process
 
-## 🚀 Next Steps
+## Next Steps
 
 After mastering predictive analytics, you'll be ready to:
 - **Advanced ML**: Deep learning, transfer learning
@@ -426,7 +426,7 @@ After mastering predictive analytics, you'll be ready to:
 - **Specialized Domains**: Computer vision, NLP, time series
 - **Research**: Cutting-edge ML techniques
 
-## 📖 Additional Resources
+## Additional Resources
 
 - **Books**: "The Art of Data Science" by Peng and Matsui
 - **Online**: Kaggle Learn, Coursera ML courses

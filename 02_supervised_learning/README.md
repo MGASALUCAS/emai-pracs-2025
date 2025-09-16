@@ -1,8 +1,8 @@
 # Phase 2: Supervised Learning - Learning from Examples
 
-> **"Supervised learning is like having a teacher who shows you examples and tells you the right answers."** - Inspired by Terence Tao's pedagogical approach
+> **"Supervised learning is like having a teacher who shows you examples and tells you the right answers."**
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this phase, you will:
 - Understand the fundamental concepts of supervised learning
@@ -12,7 +12,7 @@ By the end of this phase, you will:
 - Evaluate models using appropriate metrics and validation techniques
 - Build intuition for when to use each algorithm
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. [Introduction to Supervised Learning](#1-introduction-to-supervised-learning)
 2. [Regression Algorithms](#2-regression-algorithms)
@@ -265,7 +265,7 @@ Process of selecting the most relevant features.
 - **Natural Language Processing**: Sentiment analysis, text classification
 - **Fraud Detection**: Identify fraudulent transactions
 
-## 🎯 Key Takeaways
+## Key Takeaways
 
 1. **Supervised learning** learns from labeled examples to make predictions
 2. **Regression** predicts continuous values, **classification** predicts categories
@@ -275,14 +275,14 @@ Process of selecting the most relevant features.
 6. **Proper evaluation** is crucial for reliable model assessment
 7. **Feature engineering** can significantly improve model performance
 
-## 🚀 Next Steps
+## Next Steps
 
 After mastering supervised learning, you'll be ready to explore:
 - **Unsupervised Learning** - Finding patterns in unlabeled data
 - **Reinforcement Learning** - Learning through interaction and feedback
 - **Predictive Analytics** - Applying ML to real-world business problems
 
-## 📖 Additional Resources
+## Additional Resources
 
 - **Books**: "The Elements of Statistical Learning" by Hastie, Tibshirani, and Friedman
 - **Online**: Scikit-learn documentation and tutorials

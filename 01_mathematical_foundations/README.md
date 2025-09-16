@@ -2,7 +2,7 @@
 
 > **"Mathematics is the language in which God has written the universe."** - Galileo Galilei
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this phase, you will:
 - Understand the essential linear algebra concepts used in ML
@@ -11,7 +11,7 @@ By the end of this phase, you will:
 - Comprehend information theory concepts
 - Build intuition for mathematical thinking in ML
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. [Linear Algebra Essentials](#1-linear-algebra-essentials)
 2. [Probability and Statistics](#2-probability-and-statistics)
@@ -102,7 +102,7 @@ By the end of this phase, you will:
 - **Numerical stability**: Avoiding overflow and underflow
 - **Matrix conditioning**: When matrices become ill-behaved
 
-## 🎯 Key Takeaways
+## Key Takeaways
 
 1. **Linear algebra** is the language of machine learning
 2. **Probability** helps us handle uncertainty in data
@@ -110,11 +110,11 @@ By the end of this phase, you will:
 4. **Information theory** guides us in feature selection and model design
 5. **Mathematical intuition** is more important than memorizing formulas
 
-## 🚀 Next Steps
+## Next Steps
 
 After completing this phase, you'll be ready to dive into [Phase 2: Supervised Learning](../02_supervised_learning/README.md) with a solid mathematical foundation!
 
-## 📖 Additional Resources
+## Additional Resources
 
 - **Books**: "Linear Algebra Done Right" by Sheldon Axler
 - **Online**: 3Blue1Brown's "Essence of Linear Algebra" series
