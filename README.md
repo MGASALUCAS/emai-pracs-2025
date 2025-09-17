@@ -1,4 +1,4 @@
-# Classical Machine Learning: A Practical guide from basics to deployment.
+# Classical Machine Learning: Emai Pracs 2025.
 
 > **"The best way to learn machine learning is to understand the mathematics behind it, then implement it, and finally apply it to real problems."**
 
