@@ -4,7 +4,7 @@
 
 ## Overview
 
-These tutorials has been created intentional for participants of Emai Conference in 2025. It guides and provides a rigorous and accessible learning experience that takes you from mathematical foundations, classical machine learning to real-world applications.
+These tutorials has been created intentional for participants of Emai Conference in 2025. It guides and provides a begginer level and practical learning experience that takes you from mathematical foundations, classical machine learning to real-world applications.
 
 ## What is Classical Machine Learning?
 
