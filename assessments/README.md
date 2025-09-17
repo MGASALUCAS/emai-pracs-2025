@@ -8,11 +8,14 @@ This comprehensive assessment system evaluates your understanding of classical m
 
 ## Assessment Types
 
+
+
 ### **1. Knowledge Quizzes** (20% of grade)
 - **Format**: Multiple choice, true/false, short answer
 - **Duration**: 15-20 minutes per quiz
 - **Frequency**: After each phase
 - **Purpose**: Test conceptual understanding
+
 
 ### **2. Coding Challenges** (30% of grade)
 - **Format**: Implement algorithms from scratch

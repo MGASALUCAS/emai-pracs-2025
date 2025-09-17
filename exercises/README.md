@@ -9,6 +9,7 @@ This section contains comprehensive hands-on exercises designed to reinforce you
 ## Exercise Categories
 
 ### **Phase 1: Mathematical Foundations**
+
 - [Linear Algebra Exercises](#phase-1-linear-algebra-exercises)
 - [Probability and Statistics Exercises](#phase-1-probability-and-statistics-exercises)
 - [Optimization Exercises](#phase-1-optimization-exercises)
