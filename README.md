@@ -1,10 +1,10 @@
-# Classical Machine Learning: Emai Pracs 2025.
+# Emai Conference Practicals 2025: Classical Machine Learning; 
 
 > **"The best way to learn machine learning is to understand the mathematics behind it, then implement it, and finally apply it to real problems."**
 
 ## Overview
 
-Welcome to the most beginner-friendly classical machine learning tutorial guide. This guide provides a rigorous and accessible learning experience that takes you from mathematical foundations to real-world applications.
+These tutorials has been created intentional for participants of Emai Conference in 2025. It guides and provides a rigorous and accessible learning experience that takes you from mathematical foundations, classical machine learning to real-world applications.
 
 ## What is Classical Machine Learning?
 
