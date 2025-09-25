@@ -163,11 +163,6 @@ This tutorial series is designed to be collaborative and continuously improved. 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Inspired by mathematical pedagogy and clear explanations
-- Data Science course structures and best practices
-- The broader machine learning community's open-source contributions
 
 ---
 
